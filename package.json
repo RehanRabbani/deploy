@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "ccxt": "^1.18.120",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "mongoose": "^5.4.3",
     "request": "^2.88.0",
